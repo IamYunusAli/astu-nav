@@ -172,36 +172,6 @@ class _DescriptionTextField extends StatelessWidget {
   }
 }
 
-class _StarBar extends StatelessWidget {
-  const _StarBar({
-    @required this.rating,
-    @required this.onChanged,
-    Key key,
-  })  : assert(rating != null && rating >= 0 && rating <= maxStars),
-        assert(onChanged != null),
-        super(key: key);
-
-  static const int maxStars = 5;
-  final int rating;
-  final ValueChanged<int> onChanged;
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: List.generate(maxStars, (int index) {
-        return IconButton(
-          icon: const Icon(Icons.star),
-          iconSize: 40.0,
-          color: rating > index ? Colors.amber : Colors.grey[400],
-          onPressed: () {
-            onChanged(index + 1);
-          },
-        );
-      }).toList(),
-    );
-  }
-}
 
 class _Map extends StatelessWidget {
   const _Map({
