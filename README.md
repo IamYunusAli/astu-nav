@@ -10,9 +10,11 @@ a flutter application used to specify the place in Adama science and technology
 | 3. Offices | 4. Basic info|
 |------|-------|
 |<img src="assets/3.png" width="300">|<img src="assets/4.png" width="300">|
+
 | 5. | 6. Details|
 |------|-------|
 |<img src="assets/5.png" width="300">|<img src="assets/6.png" width="300">|
+
 | 7.Satellite | 8. Add place|
 |------|-------|
 |<img src="assets/7.png" width="300">|<img src="assets/8.png" width="300">|assets/1.png
