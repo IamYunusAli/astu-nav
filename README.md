@@ -3,13 +3,19 @@ a school project using Flutter and google maps api
 a flutter application used to specify the place in Adama science and technology 
 ### Show some :heart: and :star: the repo to support the project and follow me
 
-<img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/1.png"> <img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/2.png"> 
+| 1.Blocks | 2.Cafes|
+|------|-------|
+|<img src="assets/1.png" width="300">|<img src="assets/2.png" width="300">|
 
-<img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/3.png"> <img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/4.png"> 
-
-<img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/5.png"> <img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/6.png"> 
-
-<img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/7.png"><img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/8.png"> 
+| 3. Offices | 4. Basic info|
+|------|-------|
+|<img src="assets/3.png" width="300">|<img src="assets/4.png" width="300">|
+| 5. | 6. Details|
+|------|-------|
+|<img src="assets/5.png" width="300">|<img src="assets/6.png" width="300">|
+| 7.Satellite | 8. Add place|
+|------|-------|
+|<img src="assets/7.png" width="300">|<img src="assets/8.png" width="300">|assets/1.png
 
 
 ## Getting Started
